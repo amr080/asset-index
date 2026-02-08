@@ -1,0 +1,490 @@
+[
+  {
+    "Symbol": "XFLT",
+    "Name": "XAI OCTAGON FLOATING RATE & ALTERNATIVE INCOME TRUST"
+  },
+  {
+    "Symbol": "FOBXX",
+    "Name": "FRANKLIN ONCHAIN U.S. GOVERNMENT MONEY FUND"
+  },
+  {
+    "Symbol": "GIUSX",
+    "Name": "GUGGENHEIM CORE BOND"
+  },
+  {
+    "Symbol": "GIFIX",
+    "Name": "GUGGENHEIM FLOATING RATE STRATEGIES"
+  },
+  {
+    "Symbol": "SHYIX",
+    "Name": "GUGGENHEIM HIGH YIELD"
+  },
+  {
+    "Symbol": "GILHX",
+    "Name": "GUGGENHEIM LIMITED DURATION"
+  },
+  {
+    "Symbol": "GIOIX",
+    "Name": "GUGGENHEIM MACRO OPPORTUNITIES"
+  },
+  {
+    "Symbol": "GIJIX",
+    "Name": "GUGGENHEIM MUNICIPAL INCOME"
+  },
+  {
+    "Symbol": "GIBIX",
+    "Name": "GUGGENHEIM TOTAL RETURN BOND"
+  },
+  {
+    "Symbol": "GIYIX",
+    "Name": "GUGGENHEIM ULTRA SHORT DURATION"
+  },
+  {
+    "Symbol": "FTEXX",
+    "Name": "FIDELITY MUNICIPAL MONEY MARKET FUND"
+  },
+  {
+    "Symbol": "FCNTX",
+    "Name": "FIDELITY CONTRAFUND"
+  },
+  {
+    "Symbol": "VFIAX",
+    "Name": "VANGUARD 500 INDEX FUND"
+  },
+  {
+    "Symbol": "VTSAX",
+    "Name": "VANGUARD TOTAL STOCK MARKET INDEX FUND"
+  },
+  {
+    "Symbol": "VWENX",
+    "Name": "VANGUARD WELLINGTON FUND"
+  },
+  {
+    "Symbol": "CXGCX",
+    "Name": "CALAMOS GLOBAL CONVERTIBLE MUTUAL FUND"
+  },
+  {
+    "Symbol": "ACRED",
+    "Name": "APOLLO DIVERSIFIED CREDIT FUND"
+  },
+  {
+    "Symbol": "HCSG II",
+    "Name": "KKR HEALTH CARE STRATEGIC GROWTH FUND II"
+  },
+  {
+    "Symbol": "FOBXX",
+    "Name": "FRANKLIN ONCHAIN U.S. GOVERNMENT MONEY FUND"
+  },
+  {
+    "Symbol": "ACRED",
+    "Name": "APOLLO DIVERSIFIED CREDIT FUND"
+  },
+  {
+    "Symbol": "GDCP",
+    "Name": "GUGGENHEIM TREASURY SERVICES DIGITAL COMMERCIAL PAPER"
+  },
+  {
+    "Symbol": "CCLFX",
+    "Name": "CLIFFWATER CORPORATE LENDING FUND"
+  },
+  {
+    "Symbol": "XCAPX",
+    "Name": "ACAP STRATEGIC FUND"
+  },
+  {
+    "Symbol": "CELFX",
+    "Name": "CLIFFWATER ENHANCED LENDING FUND"
+  },
+  {
+    "Symbol": "XPMIX",
+    "Name": "STEPSTONE PRIVATE MARKETS"
+  },
+  {
+    "Symbol": "CADUX",
+    "Name": "CION ARES DIVERSIFIED CREDIT FUND"
+  },
+  {
+    "Symbol": "CPEFX",
+    "Name": "CASCADE PRIVATE CAPITAL FUND"
+  },
+  {
+    "Symbol": "TAKIX",
+    "Name": "CARLYLE TACTICAL PRIVATE CREDIT FUND"
+  },
+  {
+    "Symbol": "PFLEX",
+    "Name": "PIMCO FLEXIBLE CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "GRIFX",
+    "Name": "APOLLO DIVERSIFIED REAL ESTATE FUND"
+  },
+  {
+    "Symbol": "VFLEX",
+    "Name": "FIRST TRUST ALTERNATIVE OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "LCRDX",
+    "Name": "LORD ABBETT CREDIT OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "NICHX",
+    "Name": "VARIANT ALTERNATIVE INCOME FUND"
+  },
+  {
+    "Symbol": "VCRRX",
+    "Name": "HARRISON STREET REAL ASSETS FUND LLC"
+  },
+  {
+    "Symbol": "VCMIX",
+    "Name": "HARRISON STREET REAL ESTATE FUND LLC"
+  },
+  {
+    "Symbol": "LENDX",
+    "Name": "STONE RIDGE ALTERNATIVE LENDING RISK PREMIUM FUND"
+  },
+  {
+    "Symbol": "PMFLX",
+    "Name": "PIMCO FLEXIBLE MUNICIPAL INCOME FUND"
+  },
+  {
+    "Symbol": "CRDIX",
+    "Name": "APOLLO DIVERSIFIED CREDIT FUND"
+  },
+  {
+    "Symbol": "KRSTX",
+    "Name": "KKR REAL ESTATE SELECT TRUST INC."
+  },
+  {
+    "Symbol": "SRRIX",
+    "Name": "STONE RIDGE REINSURANCE RISK PREMIUM INTERVAL FUND"
+  },
+  {
+    "Symbol": "CPREX",
+    "Name": "CLARION PARTNERS REAL ESTATE INCOME FUND INC."
+  },
+  {
+    "Symbol": "EVERX",
+    "Name": "BOW RIVER CAPITAL EVERGREEN FUND"
+  },
+  {
+    "Symbol": "CRDEX",
+    "Name": "STEPSTONE PRIVATE CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "PIIVX",
+    "Name": "PRIVATE SHARES FUND"
+  },
+  {
+    "Symbol": "OWLCX",
+    "Name": "BLUE OWL ALTERNATIVE CREDIT FUND"
+  },
+  {
+    "Symbol": "XPTFX",
+    "Name": "FEDERATED HERMES PROJECT & TRADE FINANCE TENDER FUND"
+  },
+  {
+    "Symbol": "PCSJX",
+    "Name": "AMG PANTHEON CREDIT SOLUTIONS FUND"
+  },
+  {
+    "Symbol": "CAPIX",
+    "Name": "CALAMOS AKSIA ALTERNATIVE CREDIT & INCOME FUND"
+  },
+  {
+    "Symbol": "BPMAX",
+    "Name": "BEACON POINTE MULTI-ALTERNATIVE FUND"
+  },
+  {
+    "Symbol": "OWSCX",
+    "Name": "1WS CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "FECRX",
+    "Name": "FIRST EAGLE CREDIT OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "STPEX",
+    "Name": "STEPSTONE PRIVATE EQUITY STRATEGIES FUND"
+  },
+  {
+    "Symbol": "STRUX",
+    "Name": "STEPSTONE PRIVATE INFRASTRUCTURE FUND"
+  },
+  {
+    "Symbol": "XILSX",
+    "Name": "PIONEER ILS INTERVAL FUND"
+  },
+  {
+    "Symbol": "NMSSX",
+    "Name": "NUVEEN ENHANCED HIGH YIELD MUNICIPAL BOND FUND"
+  },
+  {
+    "Symbol": "FRBBX",
+    "Name": "FLAT ROCK ENHANCED INCOME FUND"
+  },
+  {
+    "Symbol": "FCRIX",
+    "Name": "FS CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "CREDX",
+    "Name": "BLACKROCK CREDIT STRATEGIES FUND"
+  },
+  {
+    "Symbol": "JCOFX",
+    "Name": "JACKSON CREDIT OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "KCOPX",
+    "Name": "KKR CREDIT OPPORTUNITIES PORTFOLIO"
+  },
+  {
+    "Symbol": "CFIIX",
+    "Name": "CANTOR FITZGERALD INFRASTRUCTURE FUND"
+  },
+  {
+    "Symbol": "PSOIX",
+    "Name": "PALMER SQUARE OPPORTUNISTIC INCOME FUND"
+  },
+  {
+    "Symbol": "FTPCX",
+    "Name": "FIRST TRUST PRIVATE CREDIT FUND"
+  },
+  {
+    "Symbol": "PNDIX",
+    "Name": "PENDER REAL ESTATE CREDIT FUND"
+  },
+  {
+    "Symbol": "REFLX",
+    "Name": "PIMCO FLEXIBLE REAL ESTATE INCOME FUND"
+  },
+  {
+    "Symbol": "FROPX",
+    "Name": "FLAT ROCK OPPORTUNITY FUND"
+  },
+  {
+    "Symbol": "BMACX",
+    "Name": "BLACKSTONE PRIVATE MULTI-ASSET CREDIT & INCOME FUND"
+  },
+  {
+    "Symbol": "CREMX",
+    "Name": "REDWOOD PRIVATE REAL ESTATE DEBT FUND"
+  },
+  {
+    "Symbol": "MUNEX",
+    "Name": "BLACKROCK MUNICIPAL CREDIT ALPHA PORTFOLIO, INC."
+  },
+  {
+    "Symbol": "CEDIX",
+    "Name": "BLUEBAY DESTRA INTERNATIONAL EVENT-DRIVEN CREDIT FUND"
+  },
+  {
+    "Symbol": "PMPEX",
+    "Name": "PRIMARK MEKETA PRIVATE EQUITY INVESTMENTS FUND"
+  },
+  {
+    "Symbol": "JRAFX",
+    "Name": "JACKSON REAL ASSETS FUND"
+  },
+  {
+    "Symbol": "AAIDX",
+    "Name": "AXONIC ALTERNATIVE INCOME FUND"
+  },
+  {
+    "Symbol": "ABAYX",
+    "Name": "AB CARVAL CREDIT OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "FORAX",
+    "Name": "FORUM REAL ESTATE INCOME FUND"
+  },
+  {
+    "Symbol": "XPRTX",
+    "Name": "INVESCO SENIOR LOAN FUND"
+  },
+  {
+    "Symbol": "ODIDX",
+    "Name": "OAKTREE DIVERSIFIED INCOME FUND INC."
+  },
+  {
+    "Symbol": "TPYTX",
+    "Name": "TCW PRIVATE ASSET INCOME FUND"
+  },
+  {
+    "Symbol": "CORFX",
+    "Name": "FLAT ROCK CORE INCOME FUND"
+  },
+  {
+    "Symbol": "VCRDX",
+    "Name": "HARRISON STREET INFRASTRUCTURE INCOME FUND"
+  },
+  {
+    "Symbol": "CGIQX",
+    "Name": "CION GROSVENOR INFRASTRUCTURE MASTER FUND, LLC"
+  },
+  {
+    "Symbol": "RMSPX",
+    "Name": "CAPITAL GROUP KKR MULTI-SECTOR+"
+  },
+  {
+    "Symbol": "NAIFX",
+    "Name": "NOMURA ALTERNATIVE INCOME FUND"
+  },
+  {
+    "Symbol": "GSRHX",
+    "Name": "GOLDMAN SACHS REAL ESTATE DIVERSIFIED INCOME FUND"
+  },
+  {
+    "Symbol": "CNROX",
+    "Name": "CITY NATIONAL ROCHDALE STRATEGIC CREDIT FUND"
+  },
+  {
+    "Symbol": "DPCIX",
+    "Name": "IDIRECT PRIVATE CREDIT FUND"
+  },
+  {
+    "Symbol": "PPRUX",
+    "Name": "PGIM PRIVATE REAL ESTATE FUND, INC."
+  },
+  {
+    "Symbol": "IRACX",
+    "Name": "CIM REAL ASSETS & CREDIT FUND"
+  },
+  {
+    "Symbol": "XCRRX",
+    "Name": "INVESCO DYNAMIC CREDIT OPPORTUNITY FUND"
+  },
+  {
+    "Symbol": "CAPVX",
+    "Name": "CALAMOS AKSIA PRIVATE EQUITY & ALTERNATIVES FUND"
+  },
+  {
+    "Symbol": "AMCLX",
+    "Name": "AFA ASSET BASED LENDING FUND"
+  },
+  {
+    "Symbol": "BAMIX",
+    "Name": "BOOSTER INCOME OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "CNRLX",
+    "Name": "CITY NATIONAL ROCHDALE SELECT STRATEGIES FUND"
+  },
+  {
+    "Symbol": "PBLDX",
+    "Name": "AMG PANTHEON INFRASTRUCTURE FUND, LLC"
+  },
+  {
+    "Symbol": "NCLOX",
+    "Name": "NUVEEN ENHANCED CLO INCOME FUND"
+  },
+  {
+    "Symbol": "RCPPX",
+    "Name": "CAPITAL GROUP KKR CORE PLUS+"
+  },
+  {
+    "Symbol": "ARKVX",
+    "Name": "ARK VENTURE FUND"
+  },
+  {
+    "Symbol": "USQIX",
+    "Name": "USQ CORE REAL ESTATE FUND"
+  },
+  {
+    "Symbol": "RCIIX",
+    "Name": "ALTERNATIVE CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "LISSX",
+    "Name": "LORD ABBETT CORPORATE OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "IIMFX",
+    "Name": "BLUEROCK HIGH INCOME INSTITUTIONAL CREDIT FUND"
+  },
+  {
+    "Symbol": "RKMIX",
+    "Name": "ROCKEFELLER MUNICIPAL OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "GTPIX",
+    "Name": "GOLDENTREE OPPORTUNISTIC CREDIT FUND"
+  },
+  {
+    "Symbol": "PDSKX",
+    "Name": "PRINCIPAL REAL ASSET FUND"
+  },
+  {
+    "Symbol": "LLIIX",
+    "Name": "LORD ABBETT FLEXIBLE INCOME FUND"
+  },
+  {
+    "Symbol": "SEGHX",
+    "Name": "SEG PARTNERS LONG/SHORT EQUITY FUND"
+  },
+  {
+    "Symbol": "SOFIX",
+    "Name": "OPPORTUNISTIC CREDIT INTERVAL FUND"
+  },
+  {
+    "Symbol": "ODCEX",
+    "Name": "ACCORDANT ODCE INDEX FUND"
+  },
+  {
+    "Symbol": "MOILX",
+    "Name": "LORD ABBETT MUNICIPAL OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "SCISX",
+    "Name": "MA SPECIALTY CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "FBSPX",
+    "Name": "FRANKLIN BSP PRIVATE CREDIT FUND"
+  },
+  {
+    "Symbol": "NAGRX",
+    "Name": "NIAGARA INCOME OPPORTUNITIES FUND"
+  },
+  {
+    "Symbol": "DHCIX",
+    "Name": "DIAMOND HILL SECURITIZED CREDIT FUND"
+  },
+  {
+    "Symbol": "DNLIX",
+    "Name": "DENALI STRUCTURED RETURN STRATEGY FUND"
+  },
+  {
+    "Symbol": "CAFLX",
+    "Name": "PIMCO CALIFORNIA FLEXIBLE MUNICIPAL INCOME FUND"
+  },
+  {
+    "Symbol": "PGIWX",
+    "Name": "PGIM CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "AARTX",
+    "Name": "STONE RIDGE ART RISK PREMIUM FUND"
+  },
+  {
+    "Symbol": "ABSBX",
+    "Name": "JOHN HANCOCK CQS ASSET BACKED SECURITIES FUND"
+  },
+  {
+    "Symbol": "LNBIX",
+    "Name": "LINCOLN BAIN CAPITAL TOTAL CREDIT FUND"
+  },
+  {
+    "Symbol": "PPAIX",
+    "Name": "PRINCIPAL PRIVATE CREDIT FUND"
+  },
+  {
+    "Symbol": "XSIIX",
+    "Name": "VOYA CREDIT INCOME FUND"
+  },
+  {
+    "Symbol": "ASCIX",
+    "Name": "ANGEL OAK STRATEGIC CREDIT FUND"
+  }
+]
